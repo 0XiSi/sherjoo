@@ -1,0 +1,1260 @@
+{
+  "سخنوران پرمخاطب": [
+    {
+      "name": "حافظ",
+      "link": "/hafez",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/hafez.gif",
+      "title": "حافظ شیرازی"
+    },
+    {
+      "name": "سعدی",
+      "link": "/saadi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/saadi.gif",
+      "title": "سعدی شیرازی"
+    },
+    {
+      "name": "مولانا",
+      "link": "/moulavi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/moulavi.gif",
+      "title": "جلال الدین محمد مولوی"
+    },
+    {
+      "name": "فردوسی",
+      "link": "/ferdousi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ferdousi.gif",
+      "title": "ابوالقاسم فردوسی"
+    },
+    {
+      "name": "خیام",
+      "link": "/khayyam",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/khayyam.gif",
+      "title": "خیام نیشابوری"
+    },
+    {
+      "name": "نظامی",
+      "link": "/nezami",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/nezami.gif",
+      "title": "نظامی گنجوی"
+    }
+  ],
+  "دسته‌بندی بر اساس قرن": [],
+  "قرن سوم": [
+    {
+      "name": "رودکی",
+      "link": "/roodaki",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/roodaki.gif",
+      "title": "رودکی سمرقندی"
+    }
+  ],
+  "قرن چهارم": [
+    {
+      "name": "ابوسعید ابوالخیر",
+      "link": "/abusaeed",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/abusaeed.gif",
+      "title": "ابوسعید ابوالخیر"
+    },
+    {
+      "name": "دقیقی",
+      "link": "/daghighi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/daghighi.gif",
+      "title": "دقیقی طوسی"
+    },
+    {
+      "name": "عنصری",
+      "link": "/onsori",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/onsori.gif",
+      "title": "عنصری بلخی"
+    },
+    {
+      "name": "عیوقی",
+      "link": "/ayyooghi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ayyooghi.gif",
+      "title": "عیوقی"
+    },
+    {
+      "name": "فردوسی",
+      "link": "/ferdousi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ferdousi.gif",
+      "title": "ابوالقاسم فردوسی"
+    },
+    {
+      "name": "کسایی",
+      "link": "/kesayee",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/kesayee.gif",
+      "title": "کسایی مروزی"
+    }
+  ],
+  "قرن پنجم": [
+    {
+      "name": "ابوالفرج رونی",
+      "link": "/rooni",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/rooni.gif",
+      "title": "ابوالفرج رونی"
+    },
+    {
+      "name": "ابوالفضل بیهقی",
+      "link": "/beyhaghi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/beyhaghi.gif",
+      "title": "ابوالفضل بیهقی"
+    },
+    {
+      "name": "ابوعلی عثمانی",
+      "link": "/osmani",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/osmani.gif",
+      "title": "ابوعلی حسن بن احمد عثمانی"
+    },
+    {
+      "name": "ازرقی هروی",
+      "link": "/azraghi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/azraghi.gif",
+      "title": "ازرقی هروی"
+    },
+    {
+      "name": "اسدی توسی",
+      "link": "/asadi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/asadi.gif",
+      "title": "اسدی توسی"
+    },
+    {
+      "name": "امیر معزی",
+      "link": "/amir",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/amir.gif",
+      "title": "امیر معزی نیشابوری"
+    },
+    {
+      "name": "ایرانشان",
+      "link": "/iranshan",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/iranshan.gif",
+      "title": "ایرانشان ابن ابی الخیر "
+    },
+    {
+      "name": "باباطاهر",
+      "link": "/babataher",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/babataher.gif",
+      "title": "باباطاهر"
+    },
+    {
+      "name": "خواجه عبدالله انصاری",
+      "link": "/abdullah",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/abdullah.gif",
+      "title": "خواجه عبدالله انصاری"
+    },
+    {
+      "name": "خیام",
+      "link": "/khayyam",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/khayyam.gif",
+      "title": "خیام نیشابوری"
+    },
+    {
+      "name": "سرایندهٔ فرامرزنامه",
+      "link": "/nashenas",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/nashenas.gif",
+      "title": "سرایندهٔ فرامرزنامه"
+    },
+    {
+      "name": "سنایی",
+      "link": "/sanaee",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/sanaee.gif",
+      "title": "سنایی غزنوی"
+    },
+    {
+      "name": "عسجدی",
+      "link": "/asjadi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/asjadi.gif",
+      "title": "عسجدی مروزی"
+    },
+    {
+      "name": "عمعق بخاری",
+      "link": "/amagh",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/amagh.gif",
+      "title": "عمعق بخاری"
+    },
+    {
+      "name": "عنصرالمعالی",
+      "link": "/keikavus",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/keikavus.gif",
+      "title": "عنصرالمعالی کیکاووس"
+    },
+    {
+      "name": "غزالی",
+      "link": "/ghazzali",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ghazzali.gif",
+      "title": "امام محمد غزالی"
+    },
+    {
+      "name": "فخرالدین اسعد گرگانی",
+      "link": "/asad",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/asad.gif",
+      "title": "فخرالدین اسعد گرگانی"
+    },
+    {
+      "name": "فرخی سیستانی",
+      "link": "/farrokhi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/farrokhi.gif",
+      "title": "فرخی سیستانی"
+    },
+    {
+      "name": "قطران تبریزی",
+      "link": "/ghatran",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ghatran.gif",
+      "title": "قطران تبریزی"
+    },
+    {
+      "name": "لبیبی",
+      "link": "/labibi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/labibi.gif",
+      "title": "لبیبی"
+    },
+    {
+      "name": "مسعود سعد سلمان",
+      "link": "/masood",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/masood.gif",
+      "title": "مسعود سعد سلمان"
+    },
+    {
+      "name": "منوچهری",
+      "link": "/manoochehri",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/manoochehri.gif",
+      "title": "منوچهری دامغانی"
+    },
+    {
+      "name": "ناصرخسرو",
+      "link": "/naserkhosro",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/naserkhosro.gif",
+      "title": "ناصرخسرو قبادیانی"
+    },
+    {
+      "name": "هجویری",
+      "link": "/hojviri",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/hojviri.gif",
+      "title": "علی بن عثمان هجویری"
+    }
+  ],
+  "قرن ششم": [
+    {
+      "name": "اثیر اخسیکتی",
+      "link": "/akhsikati",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/akhsikati.gif",
+      "title": "اثیر اخسیکتی"
+    },
+    {
+      "name": "ادیب صابر",
+      "link": "/saber",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/saber.gif",
+      "title": "ادیب صابر"
+    },
+    {
+      "name": "انوری",
+      "link": "/anvari",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/anvari.gif",
+      "title": "انوری ابیوردی"
+    },
+    {
+      "name": "اوحدالدین کرمانی",
+      "link": "/ouhad",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ouhad.gif",
+      "title": "اوحدالدین کرمانی"
+    },
+    {
+      "name": "باباافضل کاشانی",
+      "link": "/babaafzal",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/babaafzal.gif",
+      "title": "باباافضل کاشانی"
+    },
+    {
+      "name": "بهاء ولد",
+      "link": "/baha",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/baha.gif",
+      "title": "بهاء ولد"
+    },
+    {
+      "name": "جمال‌الدین عبدالرزاق",
+      "link": "/jamal",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/jamal.gif",
+      "title": "جمال‌الدین عبدالرزاق اصفهانی"
+    },
+    {
+      "name": "حمیدالدین بلخی",
+      "link": "/hamid",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/hamid.gif",
+      "title": "حمیدالدین بلخی"
+    },
+    {
+      "name": "خاقانی",
+      "link": "/khaghani",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/khaghani.gif",
+      "title": "خاقانی شروانی"
+    },
+    {
+      "name": "سراج قمری",
+      "link": "/ghomri",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ghomri.gif",
+      "title": "سراج قمری"
+    },
+    {
+      "name": "سوزنی سمرقندی",
+      "link": "/soozani",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/soozani.gif",
+      "title": "سوزنی سمرقندی"
+    },
+    {
+      "name": "سید حسن غزنوی",
+      "link": "/hasan",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/hasan.gif",
+      "title": "سید حسن غزنوی"
+    },
+    {
+      "name": "ظهیر فاریابی",
+      "link": "/zahir",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/zahir.gif",
+      "title": "ظهیر فاریابی"
+    },
+    {
+      "name": "ظهیری سمرقندی",
+      "link": "/zahiri",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/zahiri.gif",
+      "title": "ظهیری سمرقندی"
+    },
+    {
+      "name": "عبادی مروزی",
+      "link": "/abbadi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/abbadi.gif",
+      "title": "عبادی مروزی"
+    },
+    {
+      "name": "عبدالقادر گیلانی",
+      "link": "/gilani",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/gilani.gif",
+      "title": "عبدالقادر گیلانی"
+    },
+    {
+      "name": "عبدالواسع جبلی",
+      "link": "/jabali",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/jabali.gif",
+      "title": "عبدالواسع جبلی"
+    },
+    {
+      "name": "عثمان مختاری",
+      "link": "/mokhtari",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/mokhtari.gif",
+      "title": "عثمان مختاری"
+    },
+    {
+      "name": "عطار",
+      "link": "/attar",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/attar.gif",
+      "title": "عطار نیشابوری"
+    },
+    {
+      "name": "عین‌القضات همدانی",
+      "link": "/eynolghozat",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/eynolghozat.gif",
+      "title": "عین‌القضات همدانی"
+    },
+    {
+      "name": "فلکی شروانی",
+      "link": "/falaki",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/falaki.gif",
+      "title": "فلکی شروانی"
+    },
+    {
+      "name": "قوامی رازی",
+      "link": "/ghavami",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ghavami.gif",
+      "title": "قوامی رازی"
+    },
+    {
+      "name": "مجیرالدین بیلقانی",
+      "link": "/beylaghani",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/beylaghani.gif",
+      "title": "مجیرالدین بیلقانی"
+    },
+    {
+      "name": "محمد بن منور",
+      "link": "/mmon",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/mmon.gif",
+      "title": "محمد بن منور"
+    },
+    {
+      "name": "مهستی گنجوی",
+      "link": "/mahsati",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/mahsati.gif",
+      "title": "مهستی گنجوی"
+    },
+    {
+      "name": "میبدی",
+      "link": "/meybodi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/meybodi.gif",
+      "title": "رشیدالدین میبدی"
+    },
+    {
+      "name": "نصرالله منشی",
+      "link": "/monshi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/monshi.gif",
+      "title": "نصرالله منشی"
+    },
+    {
+      "name": "نظامی",
+      "link": "/nezami",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/nezami.gif",
+      "title": "نظامی گنجوی"
+    },
+    {
+      "name": "نظامی عروضی",
+      "link": "/aroozi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/aroozi.gif",
+      "title": "نظامی عروضی"
+    },
+    {
+      "name": "وطواط",
+      "link": "/vatvat",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/vatvat.gif",
+      "title": "رشیدالدین وطواط"
+    }
+  ],
+  "قرن هفتم": [
+    {
+      "name": "امامی هروی",
+      "link": "/emami",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/emami.gif",
+      "title": "امامی هروی"
+    },
+    {
+      "name": "امیر حسینی هروی",
+      "link": "/hoseyni",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/hoseyni.gif",
+      "title": "امیر حسینی هروی"
+    },
+    {
+      "name": "امیرخسرو دهلوی",
+      "link": "/khosro",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/khosro.gif",
+      "title": "امیرخسرو دهلوی"
+    },
+    {
+      "name": "حکیم نزاری",
+      "link": "/nezari",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/nezari.gif",
+      "title": "حکیم نزاری قهستانی"
+    },
+    {
+      "name": "خواجه نصیرالدین طوسی",
+      "link": "/khajenasir",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/khajenasir.gif",
+      "title": "خواجه نصیرالدین طوسی"
+    },
+    {
+      "name": "سعدالدین وراوینی",
+      "link": "/varavini",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/varavini.gif",
+      "title": "سعدالدین وراوینی"
+    },
+    {
+      "name": "سعدی",
+      "link": "/saadi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/saadi.gif",
+      "title": "سعدی شیرازی"
+    },
+    {
+      "name": "سلطان ولد",
+      "link": "/valad",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/valad.gif",
+      "title": "سلطان ولد"
+    },
+    {
+      "name": "عراقی",
+      "link": "/eraghi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/eraghi.gif",
+      "title": "عراقی"
+    },
+    {
+      "name": "کمال‌الدین اسماعیل",
+      "link": "/kamal",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/kamal.gif",
+      "title": "کمال‌الدین اسماعیل"
+    },
+    {
+      "name": "مجد همگر",
+      "link": "/hamgar",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/hamgar.gif",
+      "title": "مجد همگر"
+    },
+    {
+      "name": "مولانا",
+      "link": "/moulavi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/moulavi.gif",
+      "title": "جلال الدین محمد مولوی"
+    },
+    {
+      "name": "نجم‌الدین رازی",
+      "link": "/daye",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/daye.gif",
+      "title": "نجم‌الدین رازی"
+    },
+    {
+      "name": "همام تبریزی",
+      "link": "/homam",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/homam.gif",
+      "title": "همام تبریزی"
+    }
+  ],
+  "قرن هشتم": [
+    {
+      "name": "ابن عماد",
+      "link": "/ebneemad",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ebneemad.gif",
+      "title": "محمد بن عمادالدین خراسانی"
+    },
+    {
+      "name": "ابن یمین",
+      "link": "/ebneyamin",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ebneyamin.gif",
+      "title": "ابن یمین فریومدی"
+    },
+    {
+      "name": "اوحدی",
+      "link": "/ouhadi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ouhadi.gif",
+      "title": "اوحدی مراغه‌ای"
+    },
+    {
+      "name": "جلال عضد",
+      "link": "/jalal",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/jalal.gif",
+      "title": "جلال عضد"
+    },
+    {
+      "name": "جهان ملک خاتون",
+      "link": "/jahan",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/jahan.gif",
+      "title": "جهان ملک خاتون"
+    },
+    {
+      "name": "حافظ",
+      "link": "/hafez",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/hafez.gif",
+      "title": "حافظ شیرازی"
+    },
+    {
+      "name": "حیدر شیرازی",
+      "link": "/heydar",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/heydar.gif",
+      "title": "حیدر شیرازی"
+    },
+    {
+      "name": "خواجوی کرمانی",
+      "link": "/khajoo",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/khajoo.gif",
+      "title": "خواجوی کرمانی"
+    },
+    {
+      "name": "سلمان ساوجی",
+      "link": "/salman",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/salman.gif",
+      "title": "سلمان ساوجی"
+    },
+    {
+      "name": "سیف فرغانی",
+      "link": "/seyf",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/seyf.gif",
+      "title": "سیف فرغانی"
+    },
+    {
+      "name": "شاه نعمت‌الله ولی",
+      "link": "/shahnematollah",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/shahnematollah.gif",
+      "title": "شاه نعمت‌الله ولی"
+    },
+    {
+      "name": "شمس مغربی",
+      "link": "/maghrebi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/maghrebi.gif",
+      "title": "شمس مغربی"
+    },
+    {
+      "name": "شیخ محمود شبستری",
+      "link": "/shabestari",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/shabestari.gif",
+      "title": "شیخ محمود شبستری"
+    },
+    {
+      "name": "عبید زاکانی",
+      "link": "/obeyd",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/obeyd.gif",
+      "title": "عبید زاکانی"
+    },
+    {
+      "name": "قاسم انوار",
+      "link": "/ghasem",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ghasem.gif",
+      "title": "قاسم انوار"
+    },
+    {
+      "name": "کمال خجندی",
+      "link": "/khojandi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/khojandi.gif",
+      "title": "کمال خجندی"
+    },
+    {
+      "name": "محمد کوسج",
+      "link": "/koosaj",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/koosaj.gif",
+      "title": "محمد کوسج"
+    },
+    {
+      "name": "ناصر بخارایی",
+      "link": "/naser",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/naser.gif",
+      "title": "ناصر بخارایی"
+    },
+    {
+      "name": "نسیمی",
+      "link": "/nasimi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/nasimi.gif",
+      "title": "عمادالدین نسیمی"
+    }
+  ],
+  "قرن نهم": [
+    {
+      "name": "ابن حسام خوسفی",
+      "link": "/ebnehesam",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ebnehesam.gif",
+      "title": "ابن حسام خوسفی"
+    },
+    {
+      "name": "اسیری لاهیجی",
+      "link": "/asiri",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/asiri.gif",
+      "title": "اسیری لاهیجی"
+    },
+    {
+      "name": "امیر شاهی",
+      "link": "/shahi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/shahi.gif",
+      "title": "امیر شاهی سبزواری"
+    },
+    {
+      "name": "امیرعلیشیر نوایی",
+      "link": "/fani",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/fani.gif",
+      "title": "امیرعلیشیر نوایی"
+    },
+    {
+      "name": "جامی",
+      "link": "/jami",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/jami.gif",
+      "title": "جامی"
+    },
+    {
+      "name": "حسین خوارزمی",
+      "link": "/hoseyn",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/hoseyn.gif",
+      "title": "حسین خوارزمی"
+    },
+    {
+      "name": "خیالی بخارایی",
+      "link": "/khiali",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/khiali.gif",
+      "title": "خیالی بخارایی"
+    },
+    {
+      "name": "سلیمی جرونی",
+      "link": "/jarooni",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/jarooni.gif",
+      "title": "سلیمی جرونی"
+    },
+    {
+      "name": "صوفی محمد هروی",
+      "link": "/soofi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/soofi.gif",
+      "title": "صوفی محمد هروی"
+    },
+    {
+      "name": "کوهی",
+      "link": "/koohi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/koohi.gif",
+      "title": "کوهی"
+    },
+    {
+      "name": "نظام قاری",
+      "link": "/ghari",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ghari.gif",
+      "title": "نظام قاری"
+    }
+  ],
+  "قرن دهم": [
+    {
+      "name": "اهلی شیرازی",
+      "link": "/ahli",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ahli.gif",
+      "title": "اهلی شیرازی"
+    },
+    {
+      "name": "بابافغانی",
+      "link": "/faghani",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/faghani.gif",
+      "title": "بابافغانی شیرازی"
+    },
+    {
+      "name": "رضی‌الدین آرتیمانی",
+      "link": "/razi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/razi.gif",
+      "title": "رضی‌الدین آرتیمانی"
+    },
+    {
+      "name": "سام میرزا صفوی",
+      "link": "/sam",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/sam.gif",
+      "title": "سام میرزا صفوی"
+    },
+    {
+      "name": "شاهدی",
+      "link": "/shahedi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/shahedi.gif",
+      "title": "ابراهیم شاهدی دده"
+    },
+    {
+      "name": "شیخ بهایی",
+      "link": "/bahaee",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/bahaee.gif",
+      "title": "شیخ بهایی"
+    },
+    {
+      "name": "عرفی",
+      "link": "/orfi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/orfi.gif",
+      "title": "عرفی شیرازی"
+    },
+    {
+      "name": "فضولی",
+      "link": "/fozooli",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/fozooli.gif",
+      "title": "فضولی بغدادی"
+    },
+    {
+      "name": "محتشم کاشانی",
+      "link": "/mohtasham",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/mohtasham.gif",
+      "title": "محتشم کاشانی"
+    },
+    {
+      "name": "میلی",
+      "link": "/meyli",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/meyli.gif",
+      "title": "میلی"
+    },
+    {
+      "name": "نظیری نیشابوری",
+      "link": "/naziri",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/naziri.gif",
+      "title": "نظیری نیشابوری"
+    },
+    {
+      "name": "وحشی بافقی",
+      "link": "/vahshi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/vahshi.gif",
+      "title": "وحشی بافقی"
+    },
+    {
+      "name": "هلالی جغتایی",
+      "link": "/helali",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/helali.gif",
+      "title": "هلالی جغتایی"
+    }
+  ],
+  "قرن یازدهم": [
+    {
+      "name": "ابوالحسن فراهانی",
+      "link": "/abolhasan",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/abolhasan.gif",
+      "title": "ابوالحسن فراهانی"
+    },
+    {
+      "name": "اسیر شهرستانی",
+      "link": "/shahrestani",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/shahrestani.gif",
+      "title": "اسیر شهرستانی"
+    },
+    {
+      "name": "امیر پازواری",
+      "link": "/pazevari",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/pazevari.gif",
+      "title": "امیر پازواری"
+    },
+    {
+      "name": "بیدل دهلوی",
+      "link": "/bidel",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/bidel.gif",
+      "title": "بیدل دهلوی"
+    },
+    {
+      "name": "جویای تبریزی",
+      "link": "/jooya",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/jooya.gif",
+      "title": "جویای تبریزی"
+    },
+    {
+      "name": "سلطان باهو",
+      "link": "/bahoo",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/bahoo.gif",
+      "title": "سلطان باهو"
+    },
+    {
+      "name": "سلیم تهرانی",
+      "link": "/salim",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/salim.gif",
+      "title": "سلیم تهرانی"
+    },
+    {
+      "name": "سیدای نسفی",
+      "link": "/nasafi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/nasafi.gif",
+      "title": "سیدای نسفی"
+    },
+    {
+      "name": "صائب تبریزی",
+      "link": "/saeb",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/saeb.gif",
+      "title": "صائب تبریزی"
+    },
+    {
+      "name": "طغرای مشهدی",
+      "link": "/toghra",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/toghra.gif",
+      "title": "طغرای مشهدی"
+    },
+    {
+      "name": "غنی کشمیری",
+      "link": "/ghani",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ghani.gif",
+      "title": "غنی کشمیری"
+    },
+    {
+      "name": "فصیحی هروی",
+      "link": "/fasihi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/fasihi.gif",
+      "title": "فصیحی هروی"
+    },
+    {
+      "name": "فیاض لاهیجی",
+      "link": "/fayyaz",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/fayyaz.gif",
+      "title": "فیاض لاهیجی"
+    },
+    {
+      "name": "فیض کاشانی",
+      "link": "/feyz",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/feyz.gif",
+      "title": "فیض کاشانی"
+    },
+    {
+      "name": "قدسی مشهدی",
+      "link": "/ghodsi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ghodsi.gif",
+      "title": "قدسی مشهدی"
+    },
+    {
+      "name": "کلیم",
+      "link": "/kalim",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/kalim.gif",
+      "title": "کلیم"
+    },
+    {
+      "name": "ملا مسیح",
+      "link": "/masih",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/masih.gif",
+      "title": "ملا مسیح پانی‌پتی"
+    },
+    {
+      "name": "میرداماد",
+      "link": "/mir",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/mir.gif",
+      "title": "میرداماد"
+    },
+    {
+      "name": "نوعی خبوشانی",
+      "link": "/nouee",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/nouee.gif",
+      "title": "نوعی خبوشانی"
+    },
+    {
+      "name": "واعظ قزوینی",
+      "link": "/vaez",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/vaez.gif",
+      "title": "واعظ قزوینی"
+    },
+    {
+      "name": "وحیدالزمان قزوینی",
+      "link": "/vahid",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/vahid.gif",
+      "title": "وحیدالزمان قزوینی"
+    }
+  ],
+  "قرن دوازدهم": [
+    {
+      "name": "آذر بیگدلی",
+      "link": "/azar",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/azar.gif",
+      "title": "آذر بیگدلی"
+    },
+    {
+      "name": "حزین لاهیجی",
+      "link": "/hazin",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/hazin.gif",
+      "title": "حزین لاهیجی"
+    },
+    {
+      "name": "رفیق اصفهانی",
+      "link": "/rafigh",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/rafigh.gif",
+      "title": "رفیق اصفهانی"
+    },
+    {
+      "name": "سعیدا",
+      "link": "/saeeda",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/saeeda.gif",
+      "title": "سعیدا"
+    },
+    {
+      "name": "طبیب اصفهانی",
+      "link": "/tabib",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/tabib.gif",
+      "title": "طبیب اصفهانی"
+    },
+    {
+      "name": "قصاب کاشانی",
+      "link": "/ghassab",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ghassab.gif",
+      "title": "قصاب کاشانی"
+    },
+    {
+      "name": "مشتاق اصفهانی",
+      "link": "/moshtagh",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/moshtagh.gif",
+      "title": "مشتاق اصفهانی"
+    },
+    {
+      "name": "نورعلیشاه",
+      "link": "/noorali",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/noorali.gif",
+      "title": "نورعلیشاه"
+    },
+    {
+      "name": "هاتف اصفهانی",
+      "link": "/hatef",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/hatef.gif",
+      "title": "هاتف اصفهانی"
+    }
+  ],
+  "قرن سیزدهم": [
+    {
+      "name": "آشفتهٔ شیرازی",
+      "link": "/ashofte",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ashofte.gif",
+      "title": "آشفتهٔ شیرازی"
+    },
+    {
+      "name": "افسر کرمانی",
+      "link": "/kermani",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/kermani.gif",
+      "title": "افسر کرمانی"
+    },
+    {
+      "name": "الهامی کرمانشاهی",
+      "link": "/elhami",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/elhami.gif",
+      "title": "الهامی کرمانشاهی"
+    },
+    {
+      "name": "بلند اقبال",
+      "link": "/bolandeghbal",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/bolandeghbal.gif",
+      "title": "بلند اقبال"
+    },
+    {
+      "name": "ترکی شیرازی",
+      "link": "/torki",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/torki.gif",
+      "title": "ترکی شیرازی"
+    },
+    {
+      "name": "جیحون یزدی",
+      "link": "/jeyhoon",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/jeyhoon.gif",
+      "title": "جیحون یزدی"
+    },
+    {
+      "name": "حکیم سبزواری",
+      "link": "/asrar",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/asrar.gif",
+      "title": "حکیم سبزواری"
+    },
+    {
+      "name": "خالد نقشبندی",
+      "link": "/khaled",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/khaled.gif",
+      "title": "خالد نقشبندی"
+    },
+    {
+      "name": "رشحه",
+      "link": "/rashhe",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/rashhe.gif",
+      "title": "رشحه"
+    },
+    {
+      "name": "رضاقلی خان هدایت",
+      "link": "/rhedayat",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/rhedayat.gif",
+      "title": "رضاقلی خان هدایت"
+    },
+    {
+      "name": "سحاب اصفهانی",
+      "link": "/sahab",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/sahab.gif",
+      "title": "سحاب اصفهانی"
+    },
+    {
+      "name": "شاطر عباس صبوحی",
+      "link": "/shater",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/shater.gif",
+      "title": "شاطر عباس صبوحی"
+    },
+    {
+      "name": "صامت بروجردی",
+      "link": "/samet",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/samet.gif",
+      "title": "صامت بروجردی"
+    },
+    {
+      "name": "صفای اصفهانی",
+      "link": "/safa",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/safa.gif",
+      "title": "صفای اصفهانی"
+    },
+    {
+      "name": "صفایی جندقی",
+      "link": "/safayee",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/safayee.gif",
+      "title": "صفایی جندقی"
+    },
+    {
+      "name": "صفی علیشاه",
+      "link": "/safi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/safi.gif",
+      "title": "صفی علیشاه"
+    },
+    {
+      "name": "عمان سامانی",
+      "link": "/omman",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/omman.gif",
+      "title": "عمان سامانی"
+    },
+    {
+      "name": "غالب دهلوی",
+      "link": "/ghaleb",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ghaleb.gif",
+      "title": "غالب دهلوی"
+    },
+    {
+      "name": "غبار همدانی",
+      "link": "/ghobar",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ghobar.gif",
+      "title": "غبار همدانی"
+    },
+    {
+      "name": "فایز",
+      "link": "/fayez",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/fayez.gif",
+      "title": "فایز"
+    },
+    {
+      "name": "فروغی بسطامی",
+      "link": "/forooghi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/forooghi.gif",
+      "title": "فروغی بسطامی"
+    },
+    {
+      "name": "قاآنی",
+      "link": "/ghaani",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ghaani.gif",
+      "title": "قاآنی"
+    },
+    {
+      "name": "قائم مقام فراهانی",
+      "link": "/ghaemmagham",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/ghaemmagham.gif",
+      "title": "قائم مقام فراهانی"
+    },
+    {
+      "name": "محیط قمی",
+      "link": "/mohit",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/mohit.gif",
+      "title": "محیط قمی"
+    },
+    {
+      "name": "ملا احمد نراقی",
+      "link": "/naraghi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/naraghi.gif",
+      "title": "ملا احمد نراقی"
+    },
+    {
+      "name": "میرزا آقاخان کرمانی",
+      "link": "/aghakhan",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/aghakhan.gif",
+      "title": "میرزا آقاخان کرمانی"
+    },
+    {
+      "name": "میرزا حبیب خراسانی",
+      "link": "/habib",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/habib.gif",
+      "title": "میرزا حبیب خراسانی"
+    },
+    {
+      "name": "نشاط اصفهانی",
+      "link": "/neshat",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/neshat.gif",
+      "title": "نشاط اصفهانی"
+    },
+    {
+      "name": "نیر تبریزی",
+      "link": "/nayyer",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/nayyer.gif",
+      "title": "نیر تبریزی"
+    },
+    {
+      "name": "وحدت کرمانشاهی",
+      "link": "/vahdat",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/vahdat.gif",
+      "title": "وحدت کرمانشاهی"
+    },
+    {
+      "name": "وفایی شوشتری",
+      "link": "/shooshtari",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/shooshtari.gif",
+      "title": "وفایی شوشتری"
+    },
+    {
+      "name": "وفایی مهابادی",
+      "link": "/mahabadi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/mahabadi.gif",
+      "title": "وفایی مهابادی"
+    },
+    {
+      "name": "یغمای جندقی",
+      "link": "/yaghma",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/yaghma.gif",
+      "title": "یغمای جندقی"
+    }
+  ],
+  "قرن چهاردهم": [
+    {
+      "name": "ادیب الممالک",
+      "link": "/adib",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/adib.gif",
+      "title": "ادیب الممالک فراهانی"
+    },
+    {
+      "name": "افسرالملوک عاملی",
+      "link": "/afsar",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/afsar.gif",
+      "title": "افسرالملوک عاملی"
+    },
+    {
+      "name": "اقبال لاهوری",
+      "link": "/iqbal",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/iqbal.gif",
+      "title": "اقبال لاهوری"
+    },
+    {
+      "name": "ایرج میرزا",
+      "link": "/iraj",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/iraj.gif",
+      "title": "ایرج میرزا"
+    },
+    {
+      "name": "پروین اعتصامی",
+      "link": "/parvin",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/parvin.gif",
+      "title": "پروین اعتصامی"
+    },
+    {
+      "name": "حاجب شیرازی",
+      "link": "/hajeb",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/hajeb.gif",
+      "title": "حاجب شیرازی"
+    },
+    {
+      "name": "خلیل‌الله خلیلی",
+      "link": "/khalili",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/khalili.gif",
+      "title": "خلیل‌الله خلیلی"
+    },
+    {
+      "name": "رهی معیری",
+      "link": "/rahi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/rahi.gif",
+      "title": "رهی معیری"
+    },
+    {
+      "name": "شهریار",
+      "link": "/shahriar",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/shahriar.gif",
+      "title": "شهریار"
+    },
+    {
+      "name": "صابر همدانی",
+      "link": "/hamedani",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/hamedani.gif",
+      "title": "صابر همدانی"
+    },
+    {
+      "name": "صغیر اصفهانی",
+      "link": "/saghir",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/saghir.gif",
+      "title": "صغیر اصفهانی"
+    },
+    {
+      "name": "طغرل احراری",
+      "link": "/toghrol",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/toghrol.gif",
+      "title": "طغرل احراری"
+    },
+    {
+      "name": "عارف قزوینی",
+      "link": "/aref",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/aref.gif",
+      "title": "عارف قزوینی"
+    },
+    {
+      "name": "غروی اصفهانی",
+      "link": "/moftagher",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/moftagher.gif",
+      "title": "محمدحسین غروی اصفهانی"
+    },
+    {
+      "name": "فرخی یزدی",
+      "link": "/yazdi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/yazdi.gif",
+      "title": "فرخی یزدی"
+    },
+    {
+      "name": "ملک‌الشعرا بهار",
+      "link": "/bahar",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/bahar.gif",
+      "title": "ملک‌الشعرا بهار"
+    },
+    {
+      "name": "میرزاده عشقی",
+      "link": "/eshghi",
+      "image": "https://api.ganjoor.net/api/ganjoor/poet/image/eshghi.gif",
+      "title": "میرزاده عشقی"
+    }
+  ],
+  "نقشهٔ خاستگاه سخنوران": [
+    {
+      "name": "",
+      "link": "/map",
+      "image": "/image/map.gif"
+    }
+  ]
+}
