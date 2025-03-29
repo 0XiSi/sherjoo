@@ -30,6 +30,9 @@ async function findElementsByClass(url: string, className: string, tagName = '*'
     // Process and return results
     return elements.map((index, element) => {
       const $element = $(element);
+      if (!('tagName' in element)) {
+        return null; // or handle text nodes differently
+      }
       return {
         tagName: element.tagName.toLowerCase(),
         text: $element.text().trim(),
