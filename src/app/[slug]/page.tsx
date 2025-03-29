@@ -46,13 +46,13 @@ async function findElementsByClass(url: string, className: string, tagName = '*'
   }
 }
 
-interface PoemPageProps {
-  params: {
-    slug: string;
-  };
+interface Props {
+  params: { slug: string };
+  searchParams?: { [key: string]: string | string[] | undefined };
 }
 
-export default async function PoemPage({params}: PoemPageProps) {
+export default async function PoemPage({ params }: Props) {
+  // Your component logic
   // Remove the async keyword since we're not using await here
   const {slug} = await params;
   const decodedSlug = decodeURIComponent(slug);
