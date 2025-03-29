@@ -24,6 +24,7 @@ export async function GET() {
       const spacer = $(element).next('.spacer'); // Get the next spacer div
 
       // Initialize an array for the current century
+      // @ts-ignore
       poetsByCentury[century] = [];
 
       // Find all poet elements within the spacer
@@ -34,6 +35,7 @@ export async function GET() {
           image: $(poetElement).find('img').attr('src'), // Poet's image
           title: $(poetElement).find('a').attr('title'), // Poet's title
         };
+        // @ts-ignore
         poetsByCentury[century].push(poet); // Add the poet to the current century
       });
     });
