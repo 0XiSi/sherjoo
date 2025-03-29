@@ -66,6 +66,8 @@ export default function FetchPoet() {
     setFilteredPoetsByCentury(filteredData); // Update the filtered data state
   };
 
+  // @ts-ignore
+  // @ts-ignore
   return (
     <div className="max-w-[752px] bg-slate-800 rounded-xl px-4 py-2 mb-12">
       {loading ? (
@@ -152,9 +154,11 @@ export default function FetchPoet() {
                       </a>
                     </div>
                   ))}
-                  <div ref={(el) => (divRefs.current[index - 1] = el)} />
+                    <div ref={(el) => {
+                      divRefs.current[index - 1] = el;
+                    }}/>
+                  </div>
                 </div>
-              </div>
             )}
           </div>
         ))
