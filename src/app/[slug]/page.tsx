@@ -44,7 +44,9 @@ async function findElementsByClass(url: string, className: string, tagName = '*'
     }).get(); // Convert Cheerio object to array
 
   } catch (error) {
+    // @ts-ignore
     console.error('Error:', error.message);
+    // @ts-ignore
     throw new Error(`Failed to fetch elements: ${error.message}`);
   }
 }
