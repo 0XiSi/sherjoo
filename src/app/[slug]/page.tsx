@@ -56,6 +56,7 @@ type Params = Promise<{ slug: string[] }>;
 export default async function Page({ params }: { params: Params }) {
   // Remove the async keyword since we're not using await here
   const {slug} = await params;
+  // @ts-ignore
   const decodedSlug = decodeURIComponent(slug);
   const link = `https://ganjoor.net/${decodedSlug}`
   const getBooks = await findElementsByClass(link, 'part-title-block', 'div')
